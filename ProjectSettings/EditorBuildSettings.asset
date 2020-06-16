@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RandomScaleSphereScene.unity
+    guid: e6fa2a24baac62643b62034e89850cbb
   m_configObjects: {}
