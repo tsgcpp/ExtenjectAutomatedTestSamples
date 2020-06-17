@@ -13,4 +13,4 @@ Unity + Zenject (Extenject) の自動テストのサンプルプロジェクト
 - `Test Runner` -> `PlayMode` or `EditMode` -> `Run All`
 
 ## 関連
-- [ 【Unity】Zenject を使った自動テストを紹介](https://tsgcpp.hateblo.jp/)
+- [ 【Unity】Zenject を使った自動テストを紹介](https://tsgcpp.hateblo.jp/entry/2020/06/17/142700)
